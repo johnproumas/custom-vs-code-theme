@@ -1,0 +1,21 @@
+{
+  "name": "darkknight-theme",
+  "displayName": "DarkKnight Theme",
+  "description": "Custom Theme for i.P.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Knight Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Knight Theme-color-theme.json"
+      }
+    ]
+  }
+}
